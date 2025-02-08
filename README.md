@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cristian Suarez from Argentina.
+- 👀 I’m interested in QA automation and VR/MR/AR. I’m trying to combine these two passions and make a living through them.
+- 🌱 I’m currently learning all kinds of technologies. I’m already working for a company as a QA automation engineer using Selenium, Java, C#, and Cucumber, but in the future, I would also like to develop apps for Virtual Reality.
+- 📫 How to reach me: You can contact me via email at cristiansuarez95@hotmail.com.
+- 😄 Pronouns: He/Him
